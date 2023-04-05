@@ -1,0 +1,1 @@
+ alert('¡Al navegar como invitado solamente podras ver el inicio de nuestra página donde vas a poder encontrar todos nuestros productos. Si deseas navegar por categoría, comprar, ver las caracteristicas, usar el motor de búsqueda, debes INICIAR SESIÓN o REGISTRARTE!')

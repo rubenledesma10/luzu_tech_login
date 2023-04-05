@@ -1,0 +1,24 @@
+
+/*   estilos para que se agrande  */
+.card:hover{
+    transform: scale(1.2);
+  }
+  .card {
+    transition: transform .5s;
+  }
+/*   estilos para que se achique  */
+  .card:hover{
+    transform: scale(0.9);
+  }
+  .card {
+    transition: transform .5s;
+  }
+
+  /* estilo para que de color alrededor */
+  .card:hover{
+    border-color:#990000;
+    box-shadow: 0 0 10px 2px #990000;
+  }
+  .card {
+    transition: box-shadow .5s, border-color 1s;
+  }
